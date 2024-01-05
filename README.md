@@ -1,1 +1,4 @@
-# push_swapp
+# push_swap
+
+
+un algorhytme de tri.
